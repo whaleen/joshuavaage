@@ -32,12 +32,3 @@ collections:
   projects:
     output: true
     permalink: /project/:path/
-
-defaults:
-  - scope:
-        path: ""
-        type: projects
-    values:
-        thumbnail: ""
-        categories: []
-        description: ""
